@@ -1,0 +1,60 @@
+
+
+/************** BODY KISMI *************/
+body{
+   background-color: #7F8487;
+   font-family: 'Josefin Sans', sans-serif;
+}
+/************** Paragraft KISMI *************/
+p{
+    font-size: 22px;
+    color: white;
+}
+/************** Linkler ve listeler Kısmı *************/
+ul{
+  list-style-type: none;  
+}
+a{
+    color: #5c4a1b;
+    text-decoration: none;
+}
+li {
+    
+    display: inline-block;
+    padding: 9px;
+}
+  
+/************** Header Ortalama KISMI *************/
+.header-bck-size{
+    
+    text-align: center;
+    background-color: #F7CCAC;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+/************** Article KISMI *************/
+.article-first{
+    
+    padding: 1px;
+    background-color: #A47E3B;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.article-two{
+    
+    background-color: #E6B325;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+/************** Footer Kısmı *************/
+.footer-finish{
+    color: aliceblue;
+    padding: 32px;
+    text-align: center;
+    background-color: #000000;
+    border: 2px solid black;
+    border-radius: 10px;
+    
+}
